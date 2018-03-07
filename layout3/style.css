@@ -1,0 +1,46 @@
+header h1{
+  height: 100px;
+  width:100%;
+  border:1px solid black;
+  float:,left;
+
+}
+.class1{
+  height: 520px;
+  width: 20%;
+  border:1px solid black;
+  float:left;
+  margin: 0px;
+
+}
+.class2{
+  height:520px;
+  width: 40%;
+  border: 1px solid black;
+  float:left;
+  margin:0px;
+}
+.class3{
+  height: 520px;
+  width: 20%;
+  border: 1px solid black;
+  float: left;
+  margin:0px;
+
+
+}
+.class4{
+  height: 520px;
+  width: 19%;
+  border: 1px solid black;
+  float: left;
+  margin: 0px;
+}
+
+footer{
+  height: 200px;
+  width:100%;
+  border: 1px solid black;
+  float: left;
+  margin: 1px
+}
